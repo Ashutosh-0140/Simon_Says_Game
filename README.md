@@ -3,7 +3,8 @@
 A simple memory game built with HTML, CSS, and JavaScript. Repeat the sequence of flashing colors to level up. The game resets on a mistake and shows your score.
 
 ## 🔗 Live Demo
-[Play it here](https://yourusername.github.io/repository-name/)
+[Play it here](https://ashutosh-0140.github.io/Simon_Says_Game/
+)
 
 ## 🧠 Features
 - Level tracking
